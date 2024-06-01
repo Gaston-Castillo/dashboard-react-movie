@@ -1,6 +1,6 @@
 import React from 'react';
-import Sidebar from './components/Sidebar.js';
-import Contentwrapper from './components/Contenwrapper.js'
+import Sidebar from './components/Sidebar.jsx';
+import Contentwrapper from './components/Contenwrapper.jsx'
 
 import './App.css';
 
